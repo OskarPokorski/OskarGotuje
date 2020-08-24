@@ -21,18 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9c995d-364d-4904-813e-d1504f741776" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipies.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_slider.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/slider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +89,7 @@
       <workItem from="1597854756187" duration="93000" />
       <workItem from="1597854857411" duration="78000" />
       <workItem from="1597855636718" duration="2119000" />
-      <workItem from="1597858292196" duration="28937000" />
+      <workItem from="1597858292196" duration="37536000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,21 @@
+.footer {
+  height: 70px;
+  background-color: white;
+  margin-top: 50px;
+}
+
+.footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer a {
+  padding: 15px;
+}
+
+.footer img{
+  height: 30px;
+  width: 30px;
+  overflow: auto;
+}

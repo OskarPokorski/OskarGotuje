@@ -1,5 +1,6 @@
 .form {
   background-color: $color-grey;
+  font-family: $font-prompt;
 }
 
 .form .container{
@@ -16,5 +17,20 @@
   font-weight: $semi-bold;
   font-size: 30px;
   text-align: center;
-  margin-top: 18px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.form-title::after {
+  border: 1px solid #6FCF97;
+  width: 1060px;
+  content: "";
+  display: block;
+  margin-top: 20px;
+}
+
+.form-inputs{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

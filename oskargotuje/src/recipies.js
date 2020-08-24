@@ -19,13 +19,38 @@ const Recipies = () => {
                     </div>
                 </div>
                 <div className="recipies-boxes">
-                    <div className="rec rec1"/>
-                    <div className="rec rec2"/>
-                    <div className="rec rec3"/>
-                    <div className="rec rec4"/>
-                    <div className="rec rec5"/>
-                    <div className="rec rec6"/>
+                    <div className="rec rec1">
+                        <div className="rec-box">
+                            <h1 className="rec-box-title">Przepis</h1>
+                        </div>
+                    </div>
+                    <div className="rec rec2">
+                        <div className="rec-box">
+                            <h1 className="rec-box-title">Przepis</h1>
+                        </div>
+                    </div>
+                    <div className="rec rec3">
+                        <div className="rec-box">
+                            <h1 className="rec-box-title">Przepis</h1>
+                        </div>
+                    </div>
+                    <div className="rec rec4">
+                        <div className="rec-box">
+                            <h1 className="rec-box-title">Przepis</h1>
+                        </div>
+                    </div>
+                    <div className="rec rec5">
+                        <div className="rec-box">
+                            <h1 className="rec-box-title">Przepis</h1>
+                        </div>
+                    </div>
+                    <div className="rec rec6">
+                        <div className="rec-box">
+                            <h1 className="rec-box-title">Przepis</h1>
+                        </div>
+                    </div>
                 </div>
+
             </div>
         </div>
     )

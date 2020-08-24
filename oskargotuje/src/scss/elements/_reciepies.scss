@@ -18,53 +18,53 @@
   justify-content: space-between;
 }
 
-.recipies-text-left{
+.recipies-text-left {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.recipies-text-left p:nth-child(1){
+.recipies-text-left p:nth-child(1) {
   padding-right: 30px;
   font-size: 18px;
   font-weight: $medium;
 }
 
-.recipies-text-left p:nth-child(2){
+.recipies-text-left p:nth-child(2) {
   padding-right: 15px;
   font-size: 16px;
   font-weight: $bold;
   color: $color-green;
 }
 
-.recipies-text-left p:nth-child(3){
+.recipies-text-left p:nth-child(3) {
   padding-right: 15px;
   font-size: 16px;
   font-weight: $regular;
   color: $color-dark-grey;
 }
 
-.recipies-text-right p:nth-child(1){
+.recipies-text-right p:nth-child(1) {
   padding-right: 30px;
   font-size: 18px;
   font-weight: $medium;
 }
 
-.recipies-text-right p:nth-child(2){
+.recipies-text-right p:nth-child(2) {
   padding-right: 15px;
   font-size: 16px;
   font-weight: $bold;
   color: $color-green;
 }
 
-.recipies-text-right p:nth-child(3){
+.recipies-text-right p:nth-child(3) {
   font-size: 16px;
   font-weight: $regular;
   color: $color-dark-grey;
 }
 
 
-.recipies-text-right{
+.recipies-text-right {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -74,7 +74,7 @@
   padding: 0 30px;
 }
 
-.recipies-boxes{
+.recipies-boxes {
   height: 700px;
   display: flex;
   flex-wrap: wrap;
@@ -86,6 +86,24 @@
   height: 330px;
   width: 330px;
   border-radius: 10px;
-  background-color: white;
-  border: 1px solid black;
+  position: relative;
+  background-color: #0D3E22;
+
+}
+
+.rec-box {
+  height: 112px;
+  width: 330px;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 0;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.rec-box-title {
+  font-weight: 500;
+  font-size: 24px;
+  padding-left: 30px;
+  padding-top: 30px;
 }
