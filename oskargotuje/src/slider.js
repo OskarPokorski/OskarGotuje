@@ -2,6 +2,12 @@ import React from 'react';
 
 
 const Slider = () => {
-    return null;
+    return (
+        <div className="slider">
+            <div className="container">
+
+            </div>
+        </div>
+    )
 }
 export default Slider

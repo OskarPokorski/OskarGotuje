@@ -20,9 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d9c995d-364d-4904-813e-d1504f741776" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/oskargotuje/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipies.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/settings/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/slider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +93,7 @@
       <workItem from="1597854756187" duration="93000" />
       <workItem from="1597854857411" duration="78000" />
       <workItem from="1597855636718" duration="2119000" />
-      <workItem from="1597858292196" duration="9244000" />
+      <workItem from="1597858292196" duration="28937000" />
     </task>
     <servers />
   </component>
@@ -102,6 +113,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="68" y="-843" key="#Inspections" timestamp="1597996425235">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="68" y="-843" key="#Inspections/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1597996425235" />
     <state x="55" y="-818" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597854893627">
       <screen x="-307" y="-1057" width="1920" height="1057" />
     </state>

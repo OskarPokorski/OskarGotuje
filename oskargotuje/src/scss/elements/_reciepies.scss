@@ -1,0 +1,91 @@
+.recipies {
+  font-family: $font-prompt;
+  background-color: $color-grey;
+}
+
+.recipies .container {
+  height: 763px;
+  background-color: $color-white;
+  border-radius: 10px;
+  box-shadow: 0 7px 10px -5px;
+
+}
+
+.recipies-text {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.recipies-text-left{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.recipies-text-left p:nth-child(1){
+  padding-right: 30px;
+  font-size: 18px;
+  font-weight: $medium;
+}
+
+.recipies-text-left p:nth-child(2){
+  padding-right: 15px;
+  font-size: 16px;
+  font-weight: $bold;
+  color: $color-green;
+}
+
+.recipies-text-left p:nth-child(3){
+  padding-right: 15px;
+  font-size: 16px;
+  font-weight: $regular;
+  color: $color-dark-grey;
+}
+
+.recipies-text-right p:nth-child(1){
+  padding-right: 30px;
+  font-size: 18px;
+  font-weight: $medium;
+}
+
+.recipies-text-right p:nth-child(2){
+  padding-right: 15px;
+  font-size: 16px;
+  font-weight: $bold;
+  color: $color-green;
+}
+
+.recipies-text-right p:nth-child(3){
+  font-size: 16px;
+  font-weight: $regular;
+  color: $color-dark-grey;
+}
+
+
+.recipies-text-right{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.recipies-text {
+  padding: 0 30px;
+}
+
+.recipies-boxes{
+  height: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.rec {
+  height: 330px;
+  width: 330px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid black;
+}
