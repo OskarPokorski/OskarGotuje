@@ -6,7 +6,6 @@ const Slider = () => {
         <div className="slider">
             <div className="container">
                 <div className={"slider-img"}>
-                    <img src="./assets/Pancakes.jpg" alt="Pancakes"/>
                 </div>
                 <div className={"slider-text"}>
                     <p className={"slider-text-category"}>śniadanie</p>

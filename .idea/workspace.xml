@@ -21,13 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9c995d-364d-4904-813e-d1504f741776" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipies.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/assets/Facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/assets/Facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/assets/Instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/assets/Instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/assets/OskarGotujeLogo-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/assets/OskarGotujeLogo-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/assets/Pancakes.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_slider.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/slider.js" afterDir="false" />
     </list>
@@ -72,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oskargotuje/public" />
       <recent name="$PROJECT_DIR$/oskargotuje/src" />
     </key>
   </component>
@@ -89,7 +89,7 @@
       <workItem from="1597854756187" duration="93000" />
       <workItem from="1597854857411" duration="78000" />
       <workItem from="1597855636718" duration="2119000" />
-      <workItem from="1597858292196" duration="37536000" />
+      <workItem from="1597858292196" duration="39534000" />
     </task>
     <servers />
   </component>
@@ -125,5 +125,21 @@
       <screen x="-307" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-65" y="-743" key="EditFileWatcherDialog/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1597913060239" />
+    <state width="1368" height="282" key="GridCell.Tab.0.bottom" timestamp="1598279288319">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1368" height="282" key="GridCell.Tab.0.bottom/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598279288319" />
+    <state width="1368" height="282" key="GridCell.Tab.0.center" timestamp="1598279288317">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1368" height="282" key="GridCell.Tab.0.center/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598279288317" />
+    <state width="1368" height="282" key="GridCell.Tab.0.left" timestamp="1598279288315">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1368" height="282" key="GridCell.Tab.0.left/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598279288315" />
+    <state width="1368" height="282" key="GridCell.Tab.0.right" timestamp="1598279288318">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1368" height="282" key="GridCell.Tab.0.right/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598279288318" />
   </component>
 </project>
