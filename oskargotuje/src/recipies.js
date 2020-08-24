@@ -3,9 +3,9 @@ import React from 'react';
 
 const Recipies = () => {
     return (
-        <div className="recipies">
+        <div className="recipies" >
 
-            <div className="container">
+            <div className="container" id="#recipies">
                 <div className="recipies-text">
                     <div className="recipies-text-left">
                         <p>Sortowanie:</p>

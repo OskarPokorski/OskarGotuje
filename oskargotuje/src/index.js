@@ -5,9 +5,11 @@ import './scss/main.scss'
 
 import Header from "./header";
 import Slider from "./slider";
+import Search from "./search";
 import Recipies from "./recipies";
 import Form from "./form";
 import Footer from "./footer";
+
 
 const App = () => {
 
@@ -15,6 +17,7 @@ const App = () => {
         <>
             <Header/>
             <Slider/>
+            <Search/>
             <Recipies/>
             <Form/>
             <Footer/>
