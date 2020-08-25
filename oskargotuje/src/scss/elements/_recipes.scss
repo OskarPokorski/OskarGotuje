@@ -1,9 +1,9 @@
-.recipies {
+.recipes {
   font-family: $font-prompt;
   background-color: $color-grey;
 }
 
-.recipies .container {
+.recipes .container {
   height: 763px;
   background-color: $color-white;
   border-radius: 10px;
@@ -11,70 +11,70 @@
 
 }
 
-.recipies-text {
+.recipes-text {
   height: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.recipies-text-left {
+.recipes-text-left {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.recipies-text-left p:nth-child(1) {
+.recipes-text-left p:nth-child(1) {
   padding-right: 30px;
   font-size: 18px;
   font-weight: $medium;
 }
 
-.recipies-text-left p:nth-child(2) {
+.recipes-text-left p:nth-child(2) {
   padding-right: 15px;
   font-size: 16px;
   font-weight: $bold;
   color: $color-green;
 }
 
-.recipies-text-left p:nth-child(3) {
+.recipes-text-left p:nth-child(3) {
   padding-right: 15px;
   font-size: 16px;
   font-weight: $regular;
   color: $color-dark-grey;
 }
 
-.recipies-text-right p:nth-child(1) {
+.recipes-text-right p:nth-child(1) {
   padding-right: 30px;
   font-size: 18px;
   font-weight: $medium;
 }
 
-.recipies-text-right p:nth-child(2) {
+.recipes-text-right p:nth-child(2) {
   padding-right: 15px;
   font-size: 16px;
   font-weight: $bold;
   color: $color-green;
 }
 
-.recipies-text-right p:nth-child(3) {
+.recipes-text-right p:nth-child(3) {
   font-size: 16px;
   font-weight: $regular;
   color: $color-dark-grey;
 }
 
 
-.recipies-text-right {
+.recipes-text-right {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.recipies-text {
+.recipes-text {
   padding: 0 30px;
 }
 
-.recipies-boxes {
+.recipes-boxes {
   height: 700px;
   display: flex;
   flex-wrap: wrap;
@@ -88,22 +88,52 @@
   border-radius: 10px;
   position: relative;
   background-color: #0D3E22;
-
+  overflow: hidden;
 }
 
 .rec-box {
-  height: 112px;
+  height: 330px;
   width: 330px;
   border-radius: 10px;
   position: absolute;
   bottom: 0;
   z-index: 2;
   background-color: rgba(255, 255, 255, 0.8);
+  transition: top .4s ease-in-out;
+  top: 235px;
+
+  &:hover {
+    top: 0;
+  }
 }
 
-.rec-box-title {
+.rec-name {
   font-weight: 500;
   font-size: 24px;
-  padding-left: 30px;
-  padding-top: 30px;
+  padding: 25px;
+}
+
+.rec-description {
+  font-weight: 500;
+  font-size: 16px;
+  padding: 35px 25px 25px 25px;
+
+}
+
+.rec-more {
+  margin: 25px;
+  font-size: 16px;
+  font-weight: $bold;
+  color: $color-green;
+}
+
+.rec-category {
+  font-size: 18px;
+  font-weight: 300;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+.rec-img {
+  max-width: 100%;
 }

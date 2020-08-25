@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Bób z tofu po koreańsku",
+      "img": "/assets/Bob.jpg",
+      "description": "Ile można jeść fulu, hummusu z bobu albo po prostu bobu z solą. Jak wiadomo bardzo dużo,...",
+      "next": "czytaj dalej >>",
+      "category": "danie główne"
+    },
+    {
+      "id": 2,
+      "name": "Wegetariański rosół? To możliwe!",
+      "img": "/assets/Rosol.jpg",
+      "description": "Wegetariański rosół to bardzo poważna sprawa – większość osób uważa go za bulion,...",
+      "next": "czytaj dalej >>",
+      "category": "zupa"
+    },
+    {
+      "id": 3,
+      "name": "Czekoladowa owsianka z malinami",
+      "img": "/assets/Owsianka.jpg",
+      "description": "Jeśli macie w rodzinie kogoś kto, tak jak ja, nie przepada za owsiankami, to zwabcie go...",
+      "next": "czytaj dalej >>",
+      "category": "śniadanie"
+    },
+    {
+      "id": 4,
+      "name": "Pieczony kalafior z ciecierzycą",
+      "img": "/assets/Kalafior.jpg",
+      "description": "Co więcej można powiedzieć o pieczonym kalafiorze? Myślę, że wszystko już zostało powiedziane...",
+      "next": "czytaj dalej >>",
+      "category": "danie główne"
+
+    },
+    {
+      "id": 5,
+      "name": "Zupa na kwarantannę 2020",
+      "img": "/assets/Zupakwarantanna.jpg",
+      "description": "W tym dziwnym i trudnym czasie gotowanie może być większym wyzwaniem niż zazwyczaj...",
+      "next": "czytaj dalej >>",
+      "category": "zupa"
+
+    },
+    {
+      "id": 6,
+      "name": "Puszyste ciasto z truskawkami",
+      "description": "Zaczęło się polskie lato, czyli krótki czas, kiedy każdy ściga się sam ze sobą na to...",
+      "img": "/assets/Ciastotruskawki.jpg",
+      "next": "czytaj dalej >>",
+      "category": "deser"
+    }
+  ]
+}

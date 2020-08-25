@@ -21,9 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9c995d-364d-4904-813e-d1504f741776" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipies.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipies.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_recipes.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <workItem from="1597854756187" duration="93000" />
       <workItem from="1597854857411" duration="78000" />
       <workItem from="1597855636718" duration="2119000" />
-      <workItem from="1597858292196" duration="42580000" />
+      <workItem from="1597858292196" duration="60214000" />
     </task>
     <servers />
   </component>
@@ -137,5 +138,9 @@
       <screen x="-307" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1368" height="282" key="GridCell.Tab.0.right/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598279288318" />
+    <state x="45" y="-822" width="670" height="58" key="search.everywhere.popup" timestamp="1598368308865">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="45" y="-822" width="670" height="58" key="search.everywhere.popup/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598368308865" />
   </component>
 </project>

@@ -6,7 +6,7 @@ import './scss/main.scss'
 import Header from "./header";
 import Slider from "./slider";
 import Search from "./search";
-import Recipies from "./recipies";
+import Recipes from "./recipes";
 import Form from "./form";
 import Footer from "./footer";
 
@@ -18,7 +18,7 @@ const App = () => {
             <Header/>
             <Slider/>
             <Search/>
-            <Recipies/>
+            <Recipes/>
             <Form/>
             <Footer/>
         </>
