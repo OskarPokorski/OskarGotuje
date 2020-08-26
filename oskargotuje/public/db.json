@@ -14,7 +14,8 @@
       "img": "/assets/Rosol.jpg",
       "description": "Wegetariański rosół to bardzo poważna sprawa – większość osób uważa go za bulion,...",
       "next": "czytaj dalej >>",
-      "category": "zupa"
+      "category": "zupa",
+      "ingredients": "2,5 litra zimnej wody\n2 cebule\n3 marchewki\n2 pietruszki\n1 duża bulwa selera\nzielone liście pora\nnatka pietruszki, liście oraz łodyżki\nłodyżka świeżego lubczyku\n1 łyżka oleju\n\nPrzyprawy:\n2 goździki\n4 ziarna ziela angielskiego\n10 ziaren pieprzu\n4 liście laurowe\n2 ząbki czosnku\n½ łyżeczki kurkumy\n2 łyżki sosu sojowego\nkawałek imbiru długości 3 cm, można pominąć\n1 łyżeczka lubczyku, jeśli nie mieliście świeżego\nsól"
     },
     {
       "id": 3,
@@ -31,7 +32,6 @@
       "description": "Co więcej można powiedzieć o pieczonym kalafiorze? Myślę, że wszystko już zostało powiedziane...",
       "next": "czytaj dalej >>",
       "category": "danie główne"
-
     },
     {
       "id": 5,
@@ -40,7 +40,6 @@
       "description": "W tym dziwnym i trudnym czasie gotowanie może być większym wyzwaniem niż zazwyczaj...",
       "next": "czytaj dalej >>",
       "category": "zupa"
-
     },
     {
       "id": 6,

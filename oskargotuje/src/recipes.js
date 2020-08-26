@@ -46,7 +46,6 @@ const Recipes = () => {
                     }
 
                 </div>
-
             </div>
         </div>
     )

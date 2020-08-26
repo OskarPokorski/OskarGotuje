@@ -21,11 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9c995d-364d-4904-813e-d1504f741776" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/public/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipies.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_reciepies.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_recipes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipes.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/search.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/search.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oskargotuje/src/scss" />
       <recent name="$PROJECT_DIR$/oskargotuje/public" />
       <recent name="$PROJECT_DIR$/oskargotuje/src" />
     </key>
@@ -86,7 +91,7 @@
       <workItem from="1597854756187" duration="93000" />
       <workItem from="1597854857411" duration="78000" />
       <workItem from="1597855636718" duration="2119000" />
-      <workItem from="1597858292196" duration="60214000" />
+      <workItem from="1597858292196" duration="74810000" />
     </task>
     <servers />
   </component>
@@ -118,6 +123,10 @@
       <screen x="-307" y="-1057" width="1920" height="1057" />
     </state>
     <state x="22" y="-720" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1597856612463" />
+    <state x="118" y="-775" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598379964171">
+      <screen x="-307" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="118" y="-775" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.724/-307.-1057.1920.1057@-307.-1057.1920.1057" timestamp="1598379964171" />
     <state x="-65" y="-743" key="EditFileWatcherDialog" timestamp="1597913060239">
       <screen x="-307" y="-1057" width="1920" height="1057" />
     </state>

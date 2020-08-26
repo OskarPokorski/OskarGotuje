@@ -11,15 +11,16 @@ const Form = () => {
                 <div className={"form-inputs"}>
                     <form>
                         <label htmlFor="message">Twoja wiadomość</label><br/>
-                        <input type="text" id="message" name="message"/><br/>
+                        <input className={"input-long"} type="text" id="message" placeholder={"Wpisz treść wiadomości"}
+                               name="message"/><br/>
 
                         <label htmlFor="message">Imię</label><br/>
-                        <input type="text" id="message" name="message"/><br/>
+                        <input className={"input-short"} type="text" id="name" placeholder={"Wpisz imię"} name="message"/><br/>
 
-                        <label htmlFor="email">Mail</label><br/>
-                        <input type="email" id="email" name="message"/><br/>
+                        <label htmlFor="mail">Mail</label><br/>
+                        <input className={"input-short"} type="email" id="email" placeholder={"Wpisz mail"}name="message"/><br/>
 
-                        <input type="submit" value="Wyślij"/>
+                        <input className={"form-button"} type="submit" value="Wyślij"/>
                     </form>
                 </div>
             </div>

@@ -6,6 +6,7 @@
   background-color: white;
   border-radius: 10px;
   box-shadow: 0 7px 10px -5px;
+  font-family: $font-prompt;
 }
 
 .search-title {
@@ -14,7 +15,7 @@
   font-size: 30px;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 .search-title::after {
@@ -23,4 +24,30 @@
   content: "";
   display: block;
   margin-top: 20px;
+}
+
+.search p{
+  font-size: 20px;
+  font-weight: $medium;
+  display: inline;
+  padding-left: 30px;
+}
+
+.search a {
+  font-size: 20px;
+  font-weight: 400;
+  color: $color-dark-grey;
+  padding-left: 20px;
+  cursor: pointer;
+
+}
+
+.search a:hover{
+  color: $color-green;
+  font-weight: 500;
+}
+
+.search a:active{
+  color: $color-green;
+  font-weight: 500;
 }
