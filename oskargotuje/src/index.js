@@ -1,12 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {
-    HashRouter,
-    Route,
-    Link,
-    Switch,
-    NavLink,
-} from 'react-router-dom';
+import {HashRouter, Route, Switch} from 'react-router-dom';
 
 import './scss/main.scss'
 
@@ -18,17 +12,29 @@ import Form from "./form";
 import Details from "./details";
 import Footer from "./footer";
 
+const Main = () => {
+    return (
+        <>
+            <Slider/>
+            <Search/>
+            <Recipes/>
+            <Form/>
+        </>
+    )
+}
 
 const App = () => {
 
     return (
         <>
-            <Header/>
-            <Slider/>
-            <Search/>
-            <Recipes/>
-            <Form/>
-            <Footer/>
+            <HashRouter>
+                <Header/>
+                <Switch>
+                    <Route exact path={"/"} component={Main}/>
+                    <Route path={"/details"} component={Details}/>
+                </Switch>
+                <Footer/>
+            </HashRouter>
         </>
     )
 }

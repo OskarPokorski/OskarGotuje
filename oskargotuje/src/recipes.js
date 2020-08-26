@@ -37,10 +37,7 @@ const Recipes = () => {
                             <Recipe
                                 data={recipe}
                                 key={i}
-                                id={recipe.id}
-                                name={recipe.name}
-                                description={recipe.description}
-                                category={recipe.category}/>
+                            />
                         )
                     })
                     }
