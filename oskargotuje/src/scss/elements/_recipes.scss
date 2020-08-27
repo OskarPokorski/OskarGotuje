@@ -4,11 +4,9 @@
 }
 
 .recipes .container {
-  height: 763px;
   background-color: $color-white;
   border-radius: 10px;
   box-shadow: 0 7px 10px -5px;
-
 }
 
 .recipes-text {
@@ -75,11 +73,11 @@
 }
 
 .recipes-boxes {
-  height: 700px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-bottom: 12px;
 }
 
 .rec {
@@ -89,6 +87,7 @@
   position: relative;
   background-color: #0D3E22;
   overflow: hidden;
+  margin: 10px;
 }
 
 .rec-box {
@@ -136,4 +135,11 @@
 
 .rec-img {
   max-width: 100%;
+}
+
+//MEDIA QUERIES
+
+@media screen and (max-width: 400px) {
+
+
 }

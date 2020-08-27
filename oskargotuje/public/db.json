@@ -6,7 +6,20 @@
       "img": "/assets/Bob.jpg",
       "description": "Ile można jeść fulu, hummusu z bobu albo po prostu bobu z solą. Jak wiadomo bardzo dużo,...",
       "next": "czytaj dalej >>",
-      "category": "danie główne"
+      "category": "dania główne",
+      "text": "Ile można jeść fulu, hummusu z bobu albo po prostu bobu z solą. Jak wiadomo bardzo dużo, ale żeby skorzystać z lata i zjeść jeszcze więcej bobu przygotowałam przepis na lekko pikantny, czosnkowy, umamiczny bób z tofu po koreańsku. Spoiler alert: wystarczy na kilka letnich kolacji, jest pyszny zarówno na ciepło, jak i na zimno.",
+      "more": "Jeśli chcielibyście zachować piękny, jasnozielony kolor bobu to naszykujcie miskę pełną wody z kostkami lodu. Wrzucając do niej ugotowany bób zahartujecie go i zatrzymacie jasny odcień ziarenek. W ten sposób możecie ugotować od razu 1 kilogram bobu i połowę zużyć do sałatki lub hummusu, a resztę do poniższego przepisu. Bób można przygotować nawet dwa dni wcześniej.",
+      "ingredients": [
+        "500 g bobu |",
+        " sól |",
+        " 1 kostka tofu (180 g) |",
+        "2 – 3 łyżki oleju 2 cebulki młode lub 1 duża stara 2 ząbki czosnku 1 – 2 łyżki oleju 1/2 pęczka szczypioru do podania, opcjonalnie: olej sezamowy, szczypiorek, cebulka Sos: 1/2 – 2/3 szklanki wody 2 łyżki sosu sojowego 1 łyżka papryki gochugaru 1/2 łyżeczka cukru trzcinowego lub innego słodzika szczypta czarnego pieprzu i soli"
+      ],
+      "part_one": "1. W dużym garnku zagotować wodę z solą. Kiedy woda zacznie wrzeć wrzucić bób, a obok naszykować miskę z zimną wodą i kostkami lodu. Gotować do miękkości bobu, czyli 5 – 10 minut.",
+      "part_two": "2. W międzyczasie tofu odcisnąć i pokroić na mniejsze kawałki, jeśli się przy tym pokruszy to w porządku. Na dnie patelni mocno rozgrzać olej, dodać tofu i smażyć smażyć 2 – 3 minuty mieszając jak najrzadziej, następnie obrócić i smażyć kolejne 2 – 3 minuty. Usmażone przełożyć na papierowy ręcznik.",
+      "part_three": "3. Ugotowany bób odcedzić i włożyć do miski z wodą i kostkami lodu. Zostawić do schłodzenia, a następnie obrać z łupinek.",
+      "part_four": "4. Kiedy tofu i bób jest gotowe, można cebulkę pokroić w grubą kostkę, czosnek posiekać, a w szklance przygotować sos. Cebulę z czosnkiem dodać na patelnię, na której smażyło się tofu, w razie potrzeby dodać 1 łyżkę oleju – powinno być go naprawdę sporo. Podsmażać przez kilkanaście sekund i wlać sos.",
+      "part_five": "5. Doprowadzić sos do intensywnego bulgotania, dodać tofu, dusić tak 1 – 2 minuty, po czym dodać bób oraz szczypior. Wymieszać i dusić ostatnią 1 minutę. Polać olejem sezamowym jeśli używamy, posypać szczypiorkiem i podawać. Najlepiej smakuje z ryżem, makaronem ryżowym, dobre też z pokrojonym na grube plastry zielonym ogórkiem."
     },
     {
       "id": 2,
@@ -14,8 +27,13 @@
       "img": "/assets/Rosol.jpg",
       "description": "Wegetariański rosół to bardzo poważna sprawa – większość osób uważa go za bulion,...",
       "next": "czytaj dalej >>",
-      "category": "zupa",
-      "ingredients": "2,5 litra zimnej wody\n2 cebule\n3 marchewki\n2 pietruszki\n1 duża bulwa selera\nzielone liście pora\nnatka pietruszki, liście oraz łodyżki\nłodyżka świeżego lubczyku\n1 łyżka oleju\n\nPrzyprawy:\n2 goździki\n4 ziarna ziela angielskiego\n10 ziaren pieprzu\n4 liście laurowe\n2 ząbki czosnku\n½ łyżeczki kurkumy\n2 łyżki sosu sojowego\nkawałek imbiru długości 3 cm, można pominąć\n1 łyżeczka lubczyku, jeśli nie mieliście świeżego\nsól"
+      "category": "zupy",
+      "text": "Wegetariański rosół to bardzo poważna sprawa – większość osób uważa go za bulion, a pozostała część nie wierzy w jego istnienie. Ja oczywiście przewodzę tej grupie smakoszy, którzy rozumieją, że dobry rosół może w zupełności obyć się bez kury.",
+      "more": "Wegetariański rosół to nie to samo, co warzywny bulion. Rosół powinien być treściwy, o głębokim kolorze i równie głębokim smaku – długo gotowany, pełen warzyw i odpowiednich przypraw. Musi być tak aromatyczny, że wystarczy mu kilka nitek makaronu i odrobina zielonej natki, aby zmienił się w najlepszą ucztę. Ugotowanie takiego rosołu jest bardzo proste, należy jednak przestrzegać kilku prostych zasad.",
+      "part_one": "1. Warzywa dokładnie wyszorować, nie obierać i nie przekrojone włożyć do dużego garnka. Umytą cebulę obrać, łupiny przełożyć do garnka (dodadzą pięknego koloru) a wnętrze cebul przekroić na pół i każdą opalić nad ogniem kuchenki do czasu, aż będzie wyraźnie przypalona. Jeśli nie macie kuchenki to ułóżcie je na blasze piekarnika postawionej na najwyższej półce i opalajcie przez 15 minut lub do czasu, aż zaczną ciemnieć.",
+      "part_two": "2. Opalone cebule dodać do warzyw w garnku, do tego dodać łodyżki natki pietruszki, pozostałe składniki wraz z przyprawami i łyżeczką soli. Wlać 2,5 litra zimnej wody, przykryć i podgrzewać na średnim ogniu do czasu, aż się zagotuje.",
+      "part_three": "3. Kiedy woda zacznie wrzeć zmniejszyć gaz i gotować na minimalnym ogniu przez przynajmniej 3 godziny. Wywar powinien jedynie „mrugać”, a garnek musi być przez cały czas przykryty.",
+      "part_four": "4. Ugotowany rosół przecedzić przez sito, na którym zostaną wszystkie warzywa i przyprawy. Na koniec warzywa bardzo dokładnie wycisnąć tak, aby oddały wszystkie soki do garnka – to w nich jest najcenniejszy smak. Tak przygotowany rosół można doprawić jeszcze do smaku odrobiną soli lub pieprzu, podawać tradycyjnie z makaronem, posiekanymi liści pietruszki i małym kawałkiem marchewki z wywaru lub po prostu siorbać z dużego kubka."
     },
     {
       "id": 3,
@@ -23,7 +41,11 @@
       "img": "/assets/Owsianka.jpg",
       "description": "Jeśli macie w rodzinie kogoś kto, tak jak ja, nie przepada za owsiankami, to zwabcie go...",
       "next": "czytaj dalej >>",
-      "category": "śniadanie"
+      "category": "śniadania",
+      "text": "Jeśli macie w rodzinie kogoś kto, tak jak ja, nie przepada za owsiankami, to zwabcie go podstępem rano do kuchni i bez zbędnych pytań zaserwujcie mu miskę czekoladowej owsianki z malinami. Prawdopodobnie będzie to pierwszy raz, kiedy poprosi o dokładkę.",
+      "more": "Nie zrozumcie mnie źle, nie mam nic przeciwko owsiankom. Po prostu przez lata karmiono mnie mdłą i burą papką posypaną mocno przypadkowymi owocami, co uprzedziło mnie do owsianki na bardzo długi czas. Dlatego kiedy już przygotowuję poranną miskę płatków owsianych lubię użyć swoich ulubionych składników i sprawić, żeby była to prawdziwa uczta. Łączę jagody z tahiną, cynamon z masłem orzechowym lub syrop klonowy, orzechy i marchewkę. A czasem, kiedy szykuje się naprawdę ciężki dzień sięgam po kilka kostek gorzkiej czekolady i daktyle. Dzięki tym składnikom owsianka jest sycąca i kremowa; ma intensywny czekoladowy aromat oraz niesamowitą słodycz. Nawet najwięksi miłośnicy śniadaniowych parówek i kanapek będą zadowoleni.",
+      "part_one": "1. Daktyle pokroić na małe kawałki. Wszystkie składniki owsianki poza czekoladą włożyć do rondelka i gotować na niedużym ogniu przez 5 – 8 minut, czyli do czasu, aż płatki zmiękną.",
+      "part_two": "2. W międzyczasie posiekać czekoladę, dodać do rondelka  i intensywnie mieszać trzonkiem łyżki, aż do rozpuszczenia. Gorącą owsiankę nakładać do miseczek i podawać z malinami."
     },
     {
       "id": 4,
@@ -31,7 +53,12 @@
       "img": "/assets/Kalafior.jpg",
       "description": "Co więcej można powiedzieć o pieczonym kalafiorze? Myślę, że wszystko już zostało powiedziane...",
       "next": "czytaj dalej >>",
-      "category": "danie główne"
+      "category": "dania główne",
+      "text": "Co więcej można powiedzieć o pieczonym kalafiorze? Myślę, że wszystko już zostało powiedziane – jest pyszny, orzechowy, pachnący, ma przyjemną strukturę i niepowtarzalny aromat. Dlatego nie ma co gadać, trzeba maszerować do kuchni, wstawiać kalafiora do piekarnika, a po pół godzinie czekania będziecie mieć gotowy cudowny obiad.",
+      "more": "Na specjalne okazje kalafiora warto upiec w całości, na piknik zrobić go w wersji z orzechami i pietruszką, a na codzień dobrze sprawdzi się poniższy przepis. Nie ma tu żadnych wyszukanych składników ani żadnego wydziwiania – ot, wystarczy kalafiora natrzeć podstawowymi przyprawami razem z ciecierzycą, a na końcu dorzucić garść pomidorków. Wszystko jest niby bardzo proste, ale bardzo zadowalające, bo w jednej blasze łączę się różne smaki, aromaty oraz struktury. Zwłaszcza dużo radości sprawia lekko chrupiąca pieczona ciecierzyca połączona z miękkimi, gorącymi pomidorkami; albo wędzona papryka z ziarnami kolendry i świeżą pietruszką. Taka porcja może też wystarczyć jako lunch na dwa lub trzy najbliższe dni – dzięki cieciorce wszystko jest bardzo sycące i pożywne; a w dodatku świetnie smakuje na zimno..",
+      "part_one": "1. Piekarnik rozgrzać do 200 stopni. Kalafiora podzielić na różyczki, duże róże pokroić na mniejsze, liście pociąć. Puszkę ciecierzycy odcedzić, płyn z ciecierzycy warto zachować i zrobić z niego na przykład majonez.",
+      "part_two": "2. W małej szklance dokładnie wymieszać wszystkie składniki sosu. Dużą blachę do pieczenia wyłożyć papierem, wysypać kalafiora oraz ciecierzycę, polać sosem i dokładnie natrzeć rękoma.",
+      "part_three": "3. Pomidorki pokroić na połówki, dodać do kalafiora i wsunąć do gorącego piekarnika. Piec przez 10 – 15 minut, po tym czasie wymieszać i piec jeszcze 5 – 10 minut do momentu, aż kalafior zrobi się złoty i bardzo miękki. Posypać czarnym pieprzem, pietruszką lub koperkiem i zjadać. Dobrze smakuje na ciepło i na zimno."
     },
     {
       "id": 5,
@@ -39,7 +66,14 @@
       "img": "/assets/Zupakwarantanna.jpg",
       "description": "W tym dziwnym i trudnym czasie gotowanie może być większym wyzwaniem niż zazwyczaj...",
       "next": "czytaj dalej >>",
-      "category": "zupa"
+      "category": "zupy",
+      "text": "W tym dziwnym i trudnym czasie gotowanie może być większym wyzwaniem niż zazwyczaj. Trzeba korzystać z domowych zapasów, zastępować świeże warzywa zgodnie z zasobami w lodówce i jeszcze jakoś zdążyć zrobić obiad pomiędzy pracą, edukacją domową dzieci, a martwieniem się o rodziców i dziadków. Mam nadzieję, że ten przepis Wam to ułatwi, mnie ratuje od dwóch tygodni i jeszcze mi się nie znudził.",
+      "more": "Dlaczego ta zupa, chociaż bardzo prosta, tak dobrze smakuje? Podsmażenie warzyw i przypraw: najpierw na oliwie podsmażona jest cebula i warzywa korzeniowe, czyli marchewka lub seler, co zwiększa ich słodycz. Następnie krótko podsmażana jest papryka wędzona, suszone zioła i chili, co wydobywa ich aromat, zwłaszcza dobrze robi to wędzonej papryce.",
+      "part_one": "1. Cebulę pokroić w kostkę, marchew obrać i pokroić w półtalarki. W dużym garnku rozgrzać niewielką ilość oleju, dodać cebulę wraz z marchewką i smażyć przez 2 – 3 minuty, do czasu, aż cebula zacznie robić się złota.",
+      "part_two": "2. Po tym czasie dodać paprykę wędzoną, rozmaryn i szczyptę cayenne, kilka razy zamieszać i dodać odcedzone strączki oraz bulion. Garnek przykryć i zupę gotować przez 15 minut.",
+      "part_three": "3. W międzyczasie na patelnię wlać oliwę, na zimny tłuszcz dodać obrane, pozostawione w całości ząbki czosnku. Podgrzewać do momentu, aż czosnek zacznie się podsmażać. Smażyć tak przez 3 – 4 minuty na małym ogniu, w międzyczasie przewrócić ząbki. Czosnek jest gotowy, kiedy jest intensywnie złoty i wyraźnie pachnie.",
+      "part_four": "4. Wtedy do patelni dodać krojone pomidory, sporą szczyptę soli oraz czarnego pieprzu (naprawdę sporo) i dusić bez przykrycia na średnim ogniu przez 10 – 12 minut.",
+      "part_five": "5. Na koniec posiekać kapustę. Podduszone, zredukowane pomidory wlać do zupy, dodać kapustę i gotować ostatnie 3 – 5 minut. Doprawić do smaku solą oraz pieprzem i podawać."
     },
     {
       "id": 6,
@@ -47,7 +81,14 @@
       "description": "Zaczęło się polskie lato, czyli krótki czas, kiedy każdy ściga się sam ze sobą na to...",
       "img": "/assets/Ciastotruskawki.jpg",
       "next": "czytaj dalej >>",
-      "category": "deser"
+      "category": "desery",
+      "text": "Zaczęło się polskie lato, czyli krótki czas, kiedy każdy ściga się sam ze sobą na to, ile zje truskawek, czereśni i innych owoców. A żeby mieć szanse w tych zawodach przyda się przepis na proste ciasto z owocami – takie, które robi się w kwadrans, najprostszą techniką i zawsze się udaje.",
+      "more": "Przepisów na wegańskie, jasne ciasta przypominające biszkopt było na blogu już kilka, ale to odróżnia się od pozostałych lepszą, bardziej puchatą konsystencją. Jest lżejsze, mniej gąbczaste, to takie delikatne ciasto puszek, dobre do letnich owoców.",
+      "part_one": "1. Piekarnik rozgrzać do 175 stopni. Do wysokiego naczynia blendera wlać mleko i ocet. W dużej misce wymieszać mąkę pszenną, proszek do pieczenia, sodę i sól.",
+      "part_two": "2. Żeby mleko z octem postało dłużej, teraz przygotować owoce, krojąc truskawki na mniejsze kawałki. Tortownicę wyłożyć papierem do pieczenia.",
+      "part_three": "3. Do wysokiego naczynia ze ściętym mlekiem dodać cukier, olej oraz aquafabę. Przy pomocy ręcznego blendera zblendować na gładki płyn.",
+      "part_four": "4. Wlewać powoli mokre składniki do suchych, mieszając wszystko silikonową szpatułą lub łyżką. Mieszać krótko, tylko do połączenia się składników.",
+      "part_five": "5. Wlać ciasto do przygotowanej tortownicy, wysypać truskawki, włożyć do rozgrzanego piekarnika i piec przez 40 – 45 minut do momentu, aż ciasto będzie rumiane. Dobrze smakuje oprószone cukrem pudrem, świetne również następnego dnia."
     }
   ]
 }

@@ -2,11 +2,18 @@ import React from 'react';
 
 
 const Form = () => {
+
+    const contact = () =>{
+        return(
+            <h1>Hello</h1>
+        )
+    }
+
     return (
         <div className="form">
             <div className="container">
                 <div>
-                    <h1 className="form-title" id="form-title">Kontakt</h1>
+                    <h1 className="form-title" id="kontakt">Kontakt</h1>
                 </div>
                 <div className={"form-inputs"}>
                     <form>
@@ -20,7 +27,7 @@ const Form = () => {
                         <label htmlFor="mail">Mail</label><br/>
                         <input className={"input-short"} type="email" id="email" placeholder={"Wpisz mail"}name="message"/><br/>
 
-                        <input className={"form-button"} type="submit" value="Wyślij"/>
+                        <input className={"form-button"} type="submit" value="Wyślij" onSubmit={contact}/>
                     </form>
                 </div>
             </div>
