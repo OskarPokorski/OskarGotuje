@@ -3,9 +3,9 @@ import React from 'react';
 
 const Form = () => {
 
-    const contact = () =>{
-        return(
-            <h1>Hello</h1>
+    const contact = () => {
+        return (
+            <h1>Dziękuję za Twoją wiadomość!</h1>
         )
     }
 
@@ -22,12 +22,15 @@ const Form = () => {
                                name="message"/><br/>
 
                         <label htmlFor="message">Imię</label><br/>
-                        <input className={"input-short"} type="text" id="name" placeholder={"Wpisz imię"} name="message"/><br/>
+                        <input className={"input-short"} type="text" id="name" placeholder={"Wpisz imię"}
+                               name="message"/><br/>
 
                         <label htmlFor="mail">Mail</label><br/>
-                        <input className={"input-short"} type="email" id="email" placeholder={"Wpisz mail"}name="message"/><br/>
+                        <input className={"input-short"} type="email" id="email" placeholder={"Wpisz mail"}
+                               name="message"/><br/>
 
-                        <input className={"form-button"} type="submit" value="Wyślij" onSubmit={contact}/>
+                        <input className={"form-button"} type="button" value="Wyślij" onClick={contact}/>
+
                     </form>
                 </div>
             </div>

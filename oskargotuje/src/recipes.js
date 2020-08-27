@@ -14,6 +14,7 @@ const Recipes = () => {
             })
     }, [])
 
+
     return (
         <>
             <div className="search">

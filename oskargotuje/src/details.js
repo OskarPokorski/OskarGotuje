@@ -3,8 +3,7 @@ import React, {useEffect, useState} from 'react';
 
 const Details = ({match}) => {
 
-    const [recipe, setRecipe] = useState({
-    })
+    const [recipe, setRecipe] = useState({})
 
     useEffect(() => {
         const id = match.params.id;
@@ -31,8 +30,10 @@ const Details = ({match}) => {
                          backgroundSize: "cover"
                      }}>
                 </div>
+                <div className={"details-green-box"}>
                 <p className={"details-ingredients"}>Składniki:</p>
-                {/*<p className={"details-ingredients-all"}>{recipe.ingredients.map((el, i) => <li key={i}>{ingredients}</li> )}</p>*/}
+                <p className={"details-ingredients-all"}>{recipe.ingredients}</p>
+                </div>
                 <p className={"details-proces"}>Przygotowanie:</p>
                 <ul className={"details-proces-li"}>
                     <li>{recipe.part_one}</li>

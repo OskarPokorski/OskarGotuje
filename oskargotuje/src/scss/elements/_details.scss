@@ -68,13 +68,17 @@
   font-weight: 500;
   font-size: 18px;
   padding: 20px 155px;
+  text-align: center;
+  color: white;
 }
 
 .details-ingredients-all {
   font-family: $font-prompt;
   font-weight: 400;
   font-size: 16px;
-  padding: 0 155px;
+  padding: 0 155px 25px 155px;
+  text-align: center;
+  color: white;
 }
 
 .details-proces {
@@ -96,3 +100,91 @@
   padding: 0 155px 15px 155px;
 }
 
+.details-green-box {
+  background-color: $color-green;
+}
+
+
+@media (max-width: 425px) {
+  .container {
+    width: 400px;
+  }
+
+  .details-box-img {
+    height: 330px;
+    width: 330px;
+    margin: 30px 35px;
+  }
+
+  .details-title::after {
+    width: 398px;
+  }
+
+  .details-text {
+    padding: 0 35px;
+  }
+
+  .details-text2 {
+    padding: 25px 35px 0 35px;
+  }
+
+  .details-ingredients-all {
+    padding: 0 35px 25px 35px;
+  }
+
+  .details-proces {
+    padding: 20px 35px;
+  }
+
+  .details-proces-li {
+    padding-bottom: 35px;
+
+  }
+
+  .details-proces-li li {
+    padding: 0 35px 15px 35px;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 700px;
+  }
+
+  .details-box-img {
+    height: 580px;
+    width: 580px;
+    margin: 30px 60px;
+  }
+
+  .details-title::after {
+    width: 398px;
+  }
+
+  .details-text {
+    padding: 0 60px;
+  }
+
+  .details-text2 {
+    padding: 25px 60px 0 60px;
+  }
+
+  .details-ingredients-all {
+    padding: 0 60px 25px 60px;
+  }
+
+  .details-proces {
+    padding: 20px 60px;
+  }
+
+  .details-proces-li {
+    padding-bottom: 60px;
+
+  }
+
+  .details-proces-li li {
+    padding: 0 60px 15px 60px;
+  }
+
+}
