@@ -1,11 +1,17 @@
-import React from 'react';
+import React, {useState} from 'react';
 
 
 const Form = () => {
+    const [isSent, setIsSent] = useState(false)
 
-    const contact = () => {
+    const send = () => {
+        alert("Dziękujemy za Twoją wiadomość")
+        setIsSent(true)
+    }
+
+    const Contact = () => {
         return (
-            <h1>Dziękuję za Twoją wiadomość!</h1>
+            <h1 className={"thank-you"}>Dziękuję za Twoją wiadomość!</h1>
         )
     }
 
@@ -15,24 +21,24 @@ const Form = () => {
                 <div>
                     <h1 className="form-title" id="kontakt">Kontakt</h1>
                 </div>
-                <div className={"form-inputs"}>
-                    <form>
-                        <label htmlFor="message">Twoja wiadomość</label><br/>
+                {!isSent ? <div className={"form-inputs-box"}>
+                    <form className={"form-inputs"}>
+                        <label className={"input-text"} htmlFor="message">Twoja wiadomość</label><br/>
                         <input className={"input-long"} type="text" id="message" placeholder={"Wpisz treść wiadomości"}
                                name="message"/><br/>
 
-                        <label htmlFor="message">Imię</label><br/>
+                        <label className={"input-text"} htmlFor="message">Imię</label><br/>
                         <input className={"input-short"} type="text" id="name" placeholder={"Wpisz imię"}
                                name="message"/><br/>
 
-                        <label htmlFor="mail">Mail</label><br/>
+                        <label className={"input-text"} htmlFor="mail">Mail</label><br/>
                         <input className={"input-short"} type="email" id="email" placeholder={"Wpisz mail"}
                                name="message"/><br/>
 
-                        <input className={"form-button"} type="button" value="Wyślij" onClick={contact}/>
+                        <input className={"form-button"} type="button" value="Wyślij" onClick={send}/>
 
                     </form>
-                </div>
+                </div> : <Contact /> }
             </div>
         </div>
     )

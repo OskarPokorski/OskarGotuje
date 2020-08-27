@@ -1,5 +1,4 @@
 .search .container{
-  height: 150px;
   width: 1060px;
   margin-top: 60px;
   margin-bottom: 20px;
@@ -7,6 +6,9 @@
   border-radius: 10px;
   box-shadow: 0 7px 10px -5px;
   font-family: $font-prompt;
+}
+.search-text {
+  padding-bottom: 25px;
 }
 
 .search-title {
@@ -39,15 +41,61 @@
   color: $color-dark-grey;
   padding-left: 20px;
   cursor: pointer;
-
 }
 
-.search a:hover{
-  color: $color-green;
-  font-weight: 500;
+.search{
+  a:hover, a:active, a.active {
+    color: $color-green;
+    //font-weight: 500;
+  }
 }
 
-.search a:active{
-  color: $color-green;
-  font-weight: 500;
+@media (max-width: 425px) {
+  .search .container {
+    width: 400px;
+  }
+
+  .search-title::after {
+    width: 398px;
+  }
+
+  .search-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .search p{
+    padding-left: 0;
+    margin-bottom: 3px;
+  }
+  .search a {
+    padding-left: 0;
+    margin: 5px 0;
+  }
+
+  .search a:last-child{
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width:426px) and (max-width: 768px) {
+  .search .container {
+    width: 700px;
+  }
+
+  .search-title::after {
+    width: 698px;
+  }
+
+  .search p{
+    padding-left: 15px;
+  }
+  .search a {
+    padding-left: 19px;
+  }
+  .search-text {
+    padding-bottom: 25px;
+  }
 }

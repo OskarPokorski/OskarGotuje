@@ -4,8 +4,8 @@
 
 .details::before {
   background-color: #0D3E22;
-  width: 100%;
   height: 500px;
+  width: 100%;
   content: "";
   display: block;
   position: absolute;
@@ -145,9 +145,13 @@
     padding: 0 35px 15px 35px;
   }
 
+  .details::before {
+    top: 70px;
+  }
+
 }
 
-@media (max-width: 768px) {
+@media (min-width:426px) and (max-width: 768px) {
   .container {
     width: 700px;
   }
@@ -159,7 +163,7 @@
   }
 
   .details-title::after {
-    width: 398px;
+    width: 698px;
   }
 
   .details-text {

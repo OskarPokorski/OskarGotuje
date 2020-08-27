@@ -1,6 +1,6 @@
 .slider .container{
-  height: 480px;
   width: 1060px;
+  height: 480px;
   box-shadow: 0 7px 10px -5px;
   background-color: $color-white;
   border-radius: 10px;
@@ -17,10 +17,6 @@
   background-image: url("/assets/Pancakes.jpg");
   background-size: cover;
   background-position: center;
-}
-
-.slider-text{
-  width: 578px;
 }
 
 .slider-text-category{
@@ -62,5 +58,22 @@
   margin-top: 44px;
   margin-left: 60px;
   display: block;
+}
+
+@media (max-width: 425px) {
+  .slider .container {
+    width: 400px;
+  }
+
+  .slider-text-title::after {
+    width: 517px;
+  }
+}
+
+@media (min-width:426px) and (max-width: 768px) {
+  .slider .container {
+    width: 700px;
+  }
+
 }
 
