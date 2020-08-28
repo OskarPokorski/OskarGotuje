@@ -1,30 +1,23 @@
 .slider .container{
   width: 1060px;
-  height: 480px;
   box-shadow: 0 7px 10px -5px;
   background-color: $color-white;
   border-radius: 10px;
   margin-top: 50px;
   margin-bottom: 50px;
-  display: flex;
   font-family: $font-prompt;
 }
-
+.slider-box{
+  display: flex;
+}
 .slider-img{
-  width: 482px;
+  width: 1060px;
+  height: 330px;
   border-bottom-left-radius: 10px;
   border-top-left-radius: 10px;
   background-image: url("/assets/Pancakes.jpg");
   background-size: cover;
   background-position: center;
-}
-
-.slider-text-category{
-  font-size: 18px;
-  font-weight: 300;
-  color: #0D3E22;
-  margin-top: 50px;
-  margin-left: 60px;
 }
 
 .slider-text-title{
@@ -33,6 +26,7 @@
   color: #0D3E22;
   margin-top: 34px;
   margin-left: 60px;
+  margin-right: 35px;
 }
 
 .slider-text-title::after {
@@ -40,33 +34,63 @@
   width: 517px;
   content: "";
   display: block;
-  margin-top: 50px;
+  margin-top: 35px;
 }
 
 .slider-text-text{
   font-size: 18px;
   font-weight: 500;
   color: #0D3E22;
-  margin-top: 57px;
+  margin-top: 35px;
   margin-left: 60px;
+  margin-right: 35px;
+  margin-bottom: 20px;
 }
 
 .slider-text-more{
-  font-size: 16px;
+  font-size: 20px;
   font-weight: $bold;
   color: $color-green;
   margin-top: 44px;
   margin-left: 60px;
-  display: block;
 }
 
 @media (max-width: 425px) {
   .slider .container {
     width: 400px;
+    flex-direction: column;
+  }
+
+  .slider-box{
+    flex-direction: column;
+  }
+
+  .slider-text-title{
+    margin-top: 25px;
+    margin-left: 35px;
+    margin-right: 5px;
   }
 
   .slider-text-title::after {
-    width: 517px;
+    width: 363px;
+  }
+
+  .slider-text-text{
+    margin-left: 35px;
+  }
+
+  .slider-text-more{
+    margin-top: 44px;
+    margin-left: 35px;
+    margin-bottom: 35px;
+  }
+
+  .slider-img{
+    width: 400px;
+    height: 350px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: unset;
   }
 }
 
@@ -74,6 +98,10 @@
   .slider .container {
     width: 700px;
   }
+  .slider-img{
+    display: none;
+  }
+
 
 }
 

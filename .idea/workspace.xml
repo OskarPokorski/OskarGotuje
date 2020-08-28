@@ -21,17 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d9c995d-364d-4904-813e-d1504f741776" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/public/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/public/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/recipes.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/recipes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_details.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_details.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_recipes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_recipes.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/_slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/scss/elements/search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/scss/elements/search.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oskargotuje/src/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oskargotuje/src/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/oskargotuje/src/slider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +84,7 @@
       <workItem from="1597854756187" duration="93000" />
       <workItem from="1597854857411" duration="78000" />
       <workItem from="1597855636718" duration="2119000" />
-      <workItem from="1597858292196" duration="113330000" />
+      <workItem from="1597858292196" duration="117287000" />
     </task>
     <servers />
   </component>
